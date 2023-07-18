@@ -5,7 +5,7 @@
 </p>
 #### This is the clone of the website [Bou Blast](https://advertfox.wixsite.com/boublast)
 
-### Project Details
+### Project Details 
 #### I've created this website using HTML and CSS only. It was a great experience creating this clone. I've gained a lot of valuable experience while creating this, and I'm sure that this experience will help me grow even further. This Project was a task given to me by my instructors.
 
 ## Acknowledgements
