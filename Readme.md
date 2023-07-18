@@ -1,4 +1,4 @@
-<h1 align="center">Bou Blast</h1>
+# <h1 align="center">Bou Blast</h1>
 
 <p align="center">
   <img width="495" height="189" src="https://static.wixstatic.com/media/8e95a3_98fe798831664b33b7072f03ae7229da~mv2.png/v1/crop/x_5,y_147,w_495,h_189/fill/w_445,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Copy%20of%20Logos.png">
